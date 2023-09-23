@@ -1,6 +1,5 @@
 # Ryzen7_CPE232_Repolidon
-New ssh on my Laptop. Old CPE232_ Repolidon is Ronn's laptop
 ------
-update as of 9/23/2023
-abandoned this and made a new repository
-cuz i had problems with these so I wanted to start a new one
+# update as of 9/23/2023
+# bandoned this and made a new repository
+# cuz i had problems with these so I wanted to start a new one
